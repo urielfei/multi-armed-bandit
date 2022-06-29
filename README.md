@@ -1,6 +1,6 @@
 <h1> Multi-Armed Bandit <h1>
 
-<h4> 3 Algorithms were checked: <br>
+<h4> The Algorithms checked: <br>
  Lin UCB, UCB, 
  Epsilon Greedy, Greedy bandit, and LinThompson</h4>
 
